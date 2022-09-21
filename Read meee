@@ -1,0 +1,8 @@
+Step 1 : check Raspberry-Pico-install-MicroPython
+Step 2 : install-MicroPython using drag n drop file
+Step 3 : install Thonny idle 
+step 4 : open thonny idle 
+step 5 : select run option 
+step 6 : select interpreter : "MicroPython(Raspberry pi pico)" & Port automatically selected.
+
+run your code ;
